@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "motion/react";
-import { Instagram, Linkedin, Twitter } from "lucide-react";
+import { Instagram } from "lucide-react";
 import logo from "../assets/logo.svg";
 
 const ComingSoonCard = () => {
